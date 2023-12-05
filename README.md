@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @p-vitharana
 - 👀 I’m interested in Python, HTML, CSS and JavaScript
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on an Operating System (my long-term project)
-- 📫 How to reach me: Find me on Discord: 
+- 🌱 I’m currently learning C#, C++ and C
+- 💞️ I’m looking to collaborate on an Operating System (my long-term project) but its gonna take a while....
+- 📫 How to reach me: Find me on Discord: pamoda, Send me an email: pamodawv@gmail.com or find me on LinkedIn
 
-<!---
-p-vitharana/p-vitharana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
